@@ -1,0 +1,126 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(36, 18, 48);
+}
+
+.flex-container{
+    background-color: rgb(22, 22, 22);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.flex-container img{
+    width: 170px;
+}
+.menu-nav{
+    display: flex;
+    margin: 0px;
+    list-style: none;
+}
+.menu-nav a{
+    text-decoration: none;
+
+    padding: 23px;
+    color: blanchedalmond;
+}
+
+h2{
+    text-align: center;
+    font-style: inherit;
+    color: rgb(244, 244, 252);
+    font-size: 30px;
+}
+.p1{
+    color: rgb(255, 203, 220);
+    text-align: justify;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1cm;
+}
+.p1 img{
+    width: 400px;
+    margin: 5mm;
+    
+}
+.p2{
+    color: rgb(85, 190, 238);
+    text-align: justify;
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1cm;
+}
+.p2 img{
+    width: 400px;
+    margin: 5mm;
+
+}
+
+.p3{
+    color: rgb(246, 248, 141);
+    text-align: justify;
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1cm;
+}
+h3{
+    text-align: center;
+    font-style: inherit;
+    color: rgb(255, 197, 159);
+    font-size: 20px;
+}
+.p4{
+    color: rgb(246, 248, 141);
+    text-align: justify;
+    display: inline-flex;
+    align-items: center;
+    margin: 1cm;
+}
+.p5{
+    color: rgb(218, 153, 255);
+    text-align:left;
+    align-items: center;
+    margin: 1cm;
+}
+.p6{
+    color: rgb(246, 248, 141);
+    text-align: justify;
+    display: inline-flex;
+    align-items: center;
+    margin: 1cm;
+}
+.p7{
+    color: rgb(244, 244, 252);
+    margin: 1cm;
+}
+.ods{
+    text-align: justify;
+    display: inline-flex;
+    align-items: center;
+    margin: 1cm;
+}
+.text{
+    margin: 1cm;
+}
+
+.qse{
+    margin-top: 50px;
+    margin: 2cm;
+    background-color: rgb(161, 48, 86);
+   box-shadow: 10px 10px 10px black;
+   text-align: justify;
+    display: inline-flex;
+    align-items: center;
+    
+}
+.qse img{
+    width: 100px;
+    margin: 5mm;
+}
+  
+
+
